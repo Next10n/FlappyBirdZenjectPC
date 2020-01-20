@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6ce6b0b13918f34094df2ad52df9b49, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  PlayerForce: 300
+  WallsSpeed: 2
+  WallsLeftBorder: -10
+  GravityScale: 1
+  DistanceBetweenWalls: 4
+  WallsStartPosition: 10
+  MaxPassHieght: 3.5
+  MinPassHieght: -3.5
+  PassWidth: 3
+  PointsForResumeGame: 5
+  PlayerPrefab: {fileID: 100000, guid: 4adb4d6a7f750ae4da2d1b42755033e7, type: 3}
+  WallPrefab: {fileID: 100002, guid: 189a514253cda4948af21624853adae1, type: 3}

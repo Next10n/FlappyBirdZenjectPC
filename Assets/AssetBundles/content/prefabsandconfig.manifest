@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1246210398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4d0096f2fdeeb0468005b2f993dd999
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a12aa63033d66ab0dd36d70bf74fe12d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: be6bea27b98b2404e8d45eaf53983cb2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38df8af76f8ead84490fc697a68d1059, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6ce6b0b13918f34094df2ad52df9b49, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Columns.prefab
+- Assets/GameConfig.asset
+- Assets/Resources/Prefabs/Bird.prefab
+Dependencies: []

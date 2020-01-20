@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3633544481
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: content/prefabsandconfig
+      Dependencies: {}
